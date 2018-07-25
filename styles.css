@@ -1,0 +1,132 @@
+html * {
+
+    font-family:gaegu;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+h2, p, .readme-wrapper {
+
+    text-align: center;
+}
+
+.boxes {
+    display:block;
+    margin: 150px;
+    padding: 50px 50px;
+    border: solid;
+    border-radius:;
+   }
+
+   a:hover{
+       color: blueviolet;
+       font-weight: bold;
+       cursor: pointer;
+   }
+
+   span {
+       color: royalblue;
+       font-weight:800;
+   }
+
+   div.boxes {
+       width: 20%;
+   }
+
+   #box1 {
+       background-color: wheat;
+   }
+
+   #box2 {
+       background-color: olivedrab;
+       
+   }
+
+   #box3 {
+       background-color:powderblue;
+   }
+
+   #boxn {
+       background-color:cyan;
+   }
+
+   .redline {
+       width: 70%;
+       height: 20%;
+       background-color: wheat;
+       position:inline;
+   }
+
+   .blueline{
+       width:70%;
+       height:20%;
+       background-color: olivedrab;
+       position: inline;
+   }
+
+   .purpleline{
+       width: 70%;
+       height: 20%;
+       position:inline;
+
+   }
+
+   .greenline{
+       width: 80%;
+       height:20%;
+      position:inline;
+   }
+
+   h1 {
+       color:orchid;
+   }
+
+   .showtime.h1 {
+       font-color:rgb(37, 23, 233);
+   }
+
+   .stage1.h1 {
+       font-color: royalblue;
+   }
+
+   #1.h1 {
+color: violet;
+   }
+
+   #2.h1{
+color:paleturquoise;
+   }
+
+   #3.h1{
+color: peru;
+   }
+
+   #4 h1{
+color:seagreen;
+   }
+
+   #5 h1{
+color:bisque;
+
+   }
+
+   .foreverFriends {
+       border: 2px solid black;
+       background-color:turquoise;
+       width:20%;
+   }
+
+   .bestPlaces {
+       border: 2px solid black;
+       background-color:royalblue;
+       width:20%;
+
+   }
+
+   .bestRestaurants{
+       border:2px solid black;
+       background-color:seagreen;
+       width:20%;
+   }
